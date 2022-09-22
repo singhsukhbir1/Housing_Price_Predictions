@@ -4,7 +4,7 @@ Predicting housing market trends from datasets derived off kaggle
 ---
 
 
-Circle: Jagbir Singh
+# Circle: Jagbir Singh
 
 
 ---
@@ -12,6 +12,7 @@ Circle: Jagbir Singh
 # Triangle:  Nishan Manoharan
 
 ## Building Machine Learning Models: 
+---
 	
 ## Shallow Learning: 
 ---
