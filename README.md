@@ -58,8 +58,9 @@
 - assumes independence between attributes
 
 
-
+---
 ### Multiple Regression: (more than one independent variable) 
+---
 
 #### Advantages: 
 
@@ -83,7 +84,6 @@
 
 
 ---
-
 ### Decision Trees
 ---
  
@@ -118,8 +118,9 @@
 
 - they can be more costly to train in comparison to other algorithms 
 
-
+---
 ### Random Forest Regressor: 
+---
 
 #### Advantages:
 
