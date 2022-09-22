@@ -85,6 +85,8 @@
 
 - Incomplete/Minimal/Error data can lead to the conclusion that a correlation is a causation 
 
+![LRvsMLR](https://i.ibb.co/55vj4ym/SLR-vs-MLR.png)
+
 
 ---
 ### Decision Trees
@@ -141,6 +143,8 @@
 
 (2) Time Consuming:
 - due to combining a lot of decision trees we would need a more time for training 
+
+![SDTvsRF](https://i.ibb.co/0mZJkTW/DT-vs-RF.png)
 
 ---
 ---
