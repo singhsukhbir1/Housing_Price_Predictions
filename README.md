@@ -3,7 +3,7 @@ Predicting housing market trends from datasets derived off kaggle
 
 ---
 ---
-# Triangle: 
+# Triangle:  Nishan Manoharan
 
 ## Building Machine Learning Models: 
 	
