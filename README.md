@@ -8,9 +8,7 @@
 
 ---
 ---
-
 # X: Chenglu Yang(Deciding the technologies)
-
 ---
 ---
 
