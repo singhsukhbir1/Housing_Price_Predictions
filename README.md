@@ -81,7 +81,7 @@
 
 - Incomplete/Minimal/Error data can lead to the conclusion that a correlation is a causation 
 
-### Elastic Net: 
+
 ---
 
 ### Decision Trees
