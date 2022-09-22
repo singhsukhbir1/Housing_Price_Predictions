@@ -10,6 +10,7 @@
 ---
 # Triangle:  Nishan Manoharan ( Building Machine Learning Models )
 ---
+---
 
 ## Building Machine Learning Models: 
 	
@@ -20,7 +21,6 @@
 
 -	Based off of our understanding, my belief is that Random Forest will produce the best results as it is the ensemble of Decision Trees. Ensemble models in general produce better results than singular models 
 
-## Shallow Learning: 
 ---
 
 ### Linear Regression: 
