@@ -8,8 +8,8 @@ Predicting housing market trends from datasets derived off kaggle
 ## Building Machine Learning Models: 
 	
 ## Shallow Learning: 
-
 ---
+
 ### Linear Regression: 
 ---
 #### Advantages: 
