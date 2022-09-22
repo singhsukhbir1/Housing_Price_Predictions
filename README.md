@@ -8,12 +8,17 @@
 
 ---
 ---
-# Triangle:  Nishan Manoharan ( Building Machine Learning Models )
----
----
 
 # X: Chenglu Yang(Deciding the technologies)
 
+---
+---
+
+---
+---
+# Triangle:  Nishan Manoharan ( Building Machine Learning Models )
+---
+---
 
 ## Building Machine Learning Models: 
 	
