@@ -12,6 +12,9 @@
 ---
 ---
 
+# X: Chenglu Yang(Deciding the technologies)
+
+
 ## Building Machine Learning Models: 
 	
 ## Shallow Learning: 
