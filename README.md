@@ -1,5 +1,11 @@
 # Housing_Price_Predictions
 Predicting housing market trends from datasets derived off kaggle
+---
+---
+
+
+Circle: Jagbir Singh
+
 
 ---
 ---
@@ -124,6 +130,15 @@ Predicting housing market trends from datasets derived off kaggle
 
 (2) Time Consuming:
 - due to combining a lot of decision trees we would need a more time for training 
+
+---
+---
+
+
+---
+---
+
+X: 
 
 ---
 ---
