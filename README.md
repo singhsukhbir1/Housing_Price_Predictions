@@ -1,8 +1,14 @@
-# Housing_Price_Predictions
-Predicting housing market trends from datasets derived off kaggle
----
----
+## Building Machine Learning Models: 
+	
+## Shallow Learning: 
+- It would be a good idea to start the Machine Learning component by examining a simpler rule-based algorithm 
+  
+-    We can predict our response variable, by using the following regressors: Linear Regressor, DecisionTreeRegressor & RandomForest Regressor 
 
+-	Based off of our understanding, my belief is that Random Forest will produce the best results as it is the ensemble of Decision Trees. Ensemble models in general produce better results than singular models 
+
+---
+---
 
 # Circle: Jagbir Singh
 
