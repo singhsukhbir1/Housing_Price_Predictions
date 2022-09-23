@@ -29,7 +29,6 @@ What will be used for each section?
   	- CSS
   	- HTML
 
-Javascript, HTML, CSS for building the webpage.  
 ## Data cleaning
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning.png?raw=true)
