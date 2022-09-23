@@ -46,7 +46,7 @@ We will test various machine learning models to determine the best model for pre
 1. Linear Regression
 2. Regression
 3. Decision Trees
-4. Random Forest Regressor
+4. Random Forest Regression
 
 ## Dashboard
 Using Javascript, HTML, CSS for building the webpage.  
