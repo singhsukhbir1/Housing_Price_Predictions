@@ -40,7 +40,7 @@ Pandas will be used to clean the data and perform an exploratory analysis. Furth
 ## Database Storage
 PostgreSQL or SQLite depending operations efficiently.
 The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
-![This is an image](hhttps://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
 
 ## Machine Learning Model
 We will test various machine learning models to determine the best model for predictions.
