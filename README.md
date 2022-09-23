@@ -35,7 +35,8 @@ Javascript, HTML, CSS for building the webpage.
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning.png?raw=true)
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning2.png?raw=true)
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning3.png?raw=true）
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning3.png?raw=true)
+
 ## Database Storage
 SQLite or Mongo depending on the size of data
 ## Machine Learning Model
