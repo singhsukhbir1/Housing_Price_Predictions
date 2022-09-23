@@ -4,7 +4,7 @@
 ---
 
 # Circle: Jagbir Singh (incharge of the mockup database)
-
+- I have downloaded the dataset from kaggle and created the dataframe using pandas library in jupyter notebook. In addition to this I have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns.
 
 ---
 ---
