@@ -21,7 +21,7 @@ The main purpose of this analysis is to create a machine learning model in order
 ---
 ---
 
-## uilding Machine Learning Models: 
+## Building Machine Learning Models: 
 	
 ## Shallow Learning: 
 - It would be a good idea to start the Machine Learning component by examining a simpler rule-based algorithm 
