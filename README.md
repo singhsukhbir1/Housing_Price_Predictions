@@ -13,7 +13,7 @@
 ---
 ---
 ## Technologies Used
-*	What will be used for each section?  
+What will be used for each section?  
 -  Data cleaning
 	- Jupyter Notebook
 	- pandas
