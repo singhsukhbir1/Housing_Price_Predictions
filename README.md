@@ -1,3 +1,7 @@
+# [Housing_Price_Predictions](https://github.com/singhsukhbir1/Housing_Price_Predictions)
+# Purpose
+The main purpose of this analysis is to create a machine learning model in order to predict the prices of houses based on multiple features for example: number of bedrooms, lot size, neighborhood etc.
+
 # Square: Sukhbir Singh (Managing GitHub Repository)
 
 ---
