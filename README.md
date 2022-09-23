@@ -43,10 +43,10 @@ The SQLite system supports in-memory capabilities that help to perform the data 
 
 ## Machine Learning Model
 We will test various machine learning models to determine the best model for predictions.
-Linear Regression
-Multiple Regression
-Decision Trees
-Random Forest Regressor
+1. Linear Regression
+2. Regression
+3. Decision Trees
+4. Random Forest Regressor
 
 ## Dashboard
 Using Javascript, HTML, CSS for building the webpage.  
