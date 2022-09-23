@@ -22,7 +22,7 @@ What will be used for each section?
 	- SQLite
 -  Machine Learning
 	- Logistic Regression (LR)
-        	- Jupyter Notebook
+		- Jupyter Notebook
 		- R
 - Dashboard
 	- Javascript, d3.json
