@@ -1,5 +1,3 @@
-# Purpose
-The main purpose of this analysis is to create a machine learning model in order to predict the prices of houses based on multiple features for example: number of bedrooms, lot size, neighborhood, area etc.
 
 # Square: Sukhbir Singh (Managing GitHub Repository)
 
@@ -14,14 +12,40 @@ The main purpose of this analysis is to create a machine learning model in order
 # X: Chenglu Yang(Deciding the technologies)
 ---
 ---
+## Technologies Used
+*	What will be used for each section?  
+-  Data cleaning
+	- Jupyter Notebook
+	- pandas
+-  DataBase Storage 
+        - SQLite
+	- Mongo
+-  Machine Learning
+	- Logistic Regression (LR)
+        	- Jupyter Notebook
+		- pandas
+		- R
+- Dashboard
+	- Javascript, d3.json
+  	- CSS
+  	- HTML
 
----
+Javascript, HTML, CSS for building the webpage.  
+## Data cleaning
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook.  
+## Database Storage
+SQLite or Mongo depending on the size of data
+## Machine Learning Model
+We will test various machine learning models  to determine the best model for predictions.
+## Dashboard
+Using Javascript, HTML, CSS for building the webpage.  
+
 ---
 # Triangle:  Nishan Manoharan ( Building Machine Learning Models )
 ---
 ---
 
-## uilding Machine Learning Models: 
+## Building Machine Learning Models: 
 	
 ## Shallow Learning: 
 - It would be a good idea to start the Machine Learning component by examining a simpler rule-based algorithm 
