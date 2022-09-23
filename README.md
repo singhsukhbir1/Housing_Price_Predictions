@@ -23,7 +23,6 @@ What will be used for each section?
 -  Machine Learning
 	- Logistic Regression (LR)
         	- Jupyter Notebook
-		- pandas
 		- R
 - Dashboard
 	- Javascript, d3.json
@@ -44,6 +43,10 @@ The SQLite system supports in-memory capabilities that help to perform the data 
 
 ## Machine Learning Model
 We will test various machine learning models to determine the best model for predictions.
+Linear Regression
+Multiple Regression
+Decision Trees
+Random Forest Regressor
 
 ## Dashboard
 Using Javascript, HTML, CSS for building the webpage.  
