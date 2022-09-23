@@ -4,14 +4,10 @@
 ---
 ---
 
-# Circle: Jagbir Singh (incharge of the mockup database)
+# Circle: Jagbir Singh (Incharge of the mockup database)
 - I have downloaded the dataset from kaggle and created the dataframe using pandas library in jupyter notebook. In addition to this I have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns.
 
----
----
-# X: Chenglu Yang(Deciding the technologies)
----
----
+
 ## Technologies Used
 What will be used for each section?  
 -  Data cleaning
@@ -188,8 +184,6 @@ Using Javascript, HTML, CSS for building the webpage.
 
 ---
 ---
-
-
+# X: Chenglu Yang(Deciding the technologies)
 ---
 ---
-
