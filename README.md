@@ -32,7 +32,8 @@
 
 Javascript, HTML, CSS for building the webpage.  
 ## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook.  
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
+![D11a](![image](https://user-images.githubusercontent.com/87958408/191875342-752152c0-957f-42da-8984-51b4747ec3f6.png)
 ## Database Storage
 SQLite or Mongo depending on the size of data
 ## Machine Learning Model
