@@ -191,7 +191,3 @@ Using Javascript, HTML, CSS for building the webpage.
 ---
 ---
 
-X: 
-
----
----
