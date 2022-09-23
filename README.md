@@ -18,7 +18,7 @@ What will be used for each section?
 	- Jupyter Notebook
 	- pandas
 -  DataBase Storage 
-        - PostgreSQL
+	- PostgreSQL
 	- SQLite
 -  Machine Learning
 	- Logistic Regression (LR)
