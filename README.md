@@ -20,44 +20,6 @@ A few questions we are looking to answer are:
 - I have downloaded the dataset from kaggle and created the dataframe using pandas library in jupyter notebook. In addition to this I have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns.
 
 
-## Technologies Used
-What will be used for each section?  
--  Data cleaning
-	- Jupyter Notebook
-	- pandas
--  DataBase Storage 
-	- PostgreSQL
-	- SQLite
--  Machine Learning
-	- Logistic Regression (LR)
-		- Jupyter Notebook
-		- R
-- Dashboard
-	- Javascript, d3.json
-  	- CSS
-  	- HTML
-
-## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning.png?raw=true)
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning2.png?raw=true)
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning3.png?raw=true)
-
-## Database Storage
-PostgreSQL or SQLite depending operations efficiently.
-The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
-
-## Machine Learning Model
-We will test various machine learning models to determine the best model for predictions.
-1. Linear Regression
-2. Regression
-3. Decision Trees
-4. Random Forest Regression
-
-## Dashboard
-Using Javascript, HTML, CSS for building the webpage.  
-
 ---
 # Triangle:  Nishan Manoharan ( Building Machine Learning Models )
 ---
@@ -199,3 +161,41 @@ Using Javascript, HTML, CSS for building the webpage.
 # X: Chenglu Yang(Deciding the technologies)
 ---
 ---
+
+## Technologies Used
+What will be used for each section?  
+-  Data cleaning
+	- Jupyter Notebook
+	- pandas
+-  DataBase Storage 
+	- PostgreSQL
+	- SQLite
+-  Machine Learning
+	- Logistic Regression (LR)
+		- Jupyter Notebook
+		- R
+- Dashboard
+	- Javascript, d3.json
+  	- CSS
+  	- HTML
+
+## Data cleaning
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning.png?raw=true)
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning2.png?raw=true)
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning3.png?raw=true)
+
+## Database Storage
+PostgreSQL or SQLite depending operations efficiently.
+The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
+
+## Machine Learning Model
+We will test various machine learning models to determine the best model for predictions.
+1. Linear Regression
+2. Regression
+3. Decision Trees
+4. Random Forest Regression
+
+## Dashboard
+Using Javascript, HTML, CSS for building the webpage.  
