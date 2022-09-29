@@ -9,19 +9,19 @@ A few questions we are looking to answer are:
 4. What ways can we finetune the dataset that we currently have and how will this impact our efficiency of our model?
 
 
-# Square: Sukhbir Singh (Managing GitHub Repository)
+# Managing GitHub Repository
 - Created the repository and added all the members.
 - A README.md file is added and the repository is set to Public view.
 - Purpose or analysis and roles of members are updated.
 ---
 ---
 
-# Circle: Jagbir Singh (Incharge of the mockup database)
+# Incharge of the mockup database
 - I have downloaded the dataset from kaggle and created the dataframe using pandas library in jupyter notebook. In addition to this I have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns.
 
 
 ---
-# Triangle:  Nishan Manoharan ( Building Machine Learning Models )
+# Building Machine Learning Models
 ---
 ---
 
@@ -158,7 +158,7 @@ A few questions we are looking to answer are:
 
 ---
 ---
-# X: Chenglu Yang(Deciding the technologies)
+# Deciding the technologies
 ---
 ---
 
@@ -199,3 +199,10 @@ We will test various machine learning models to determine the best model for pre
 
 ## Dashboard
 Using Javascript, HTML, CSS for building the webpage.  
+
+
+Contribution: 
+## Square: Sukhbir Singh 
+## Triangle:  Nishan Manoharan 
+## Circle: Jagbir Singh 
+## X: Chenglu Yang
