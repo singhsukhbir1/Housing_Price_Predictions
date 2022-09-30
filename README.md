@@ -8,6 +8,8 @@ A few questions we are looking to answer are:
 3. Are there any missing attributes that might contribute to better results in this model, that the current dataset might be missing? 
 4. What ways can we finetune the dataset that we currently have and how will this impact our efficiency of our model?
 
+# Presentation/Dashboard (Google Slide Link) 
+https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true
 
 # Managing GitHub Repository
 - Created the repository and added all the members.
