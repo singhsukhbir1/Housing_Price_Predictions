@@ -176,10 +176,8 @@ What will be used for each section?
 -  Machine Learning
 	- Logistic Regression (LR)
 		- Jupyter Notebook
-		- R
 - Dashboard
 	- Tableau
-  	- CSS
   	- HTML
 
 ## Data cleaning
