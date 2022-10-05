@@ -203,7 +203,10 @@ d. Random Forest Regressor<br>
 We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
 
 ## Dashboard
-Using Javascript, HTML, CSS for building the webpage.  
+Using Tableau to display house prices based  on different features. 
+- Average Sale Price vs Garage Type of House
+- Average Sale Price  vs Building Type as years grow
+- Highest Sale Price vs Neighbourhood
 
 
 # Contribution: 
