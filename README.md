@@ -194,12 +194,13 @@ The SQLite system supports in-memory capabilities that help to perform the data 
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
 
 ## Machine Learning
-There's a List of the model that we can use for our prediction. 
+There's a List of the model that we can use for our prediction.<br>
 a. Linear Regression Model<br>
 b. Multiple Regression Model<br>
 c. Decesion Tree<br>
 d. Random Forest Regressor<br>
-In order to choose the best ML Model, 
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/ml%20model.png?raw=true)
+We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
 
 ## Dashboard
 Using Javascript, HTML, CSS for building the webpage.  
