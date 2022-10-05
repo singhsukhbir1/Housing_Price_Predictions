@@ -178,7 +178,7 @@ What will be used for each section?
 		- Jupyter Notebook
 		- R
 - Dashboard
-	- Javascript, d3.json
+	- Tableau
   	- CSS
   	- HTML
 
