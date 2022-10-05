@@ -193,6 +193,13 @@ PostgreSQL or SQLite depending operations efficiently.
 The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
 
+## Machine Learning
+There's a List of the model that we can use for our prediction. 
+a. Linear Regression Model<br>
+b. Multiple Regression Model<br>
+c. Decesion Tree<br>
+d. Random Forest Regressor<br>
+In order to choose the best ML Model, 
 
 ## Dashboard
 Using Javascript, HTML, CSS for building the webpage.  
