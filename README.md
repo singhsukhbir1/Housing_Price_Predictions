@@ -205,10 +205,10 @@ Analyzing Co-Relation with Certain Feature Variables. <br>
 
 There's a List of the model that we can use for our prediction.<br>
 a. Linear Regression Model<br>
-b. Multiple Regression Model<br>
+b. XGBoost<br>
 c. Decesion Tree<br>
 d. Random Forest Regressor<br>
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/ml%20model.png?raw=true)
+![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
 We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
 
 ## Dashboard
