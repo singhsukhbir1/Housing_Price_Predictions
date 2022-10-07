@@ -1,8 +1,9 @@
 # [Housing_Price_Predictions](https://github.com/singhsukhbir1/Housing_Price_Predictions)
-# Purpose
-The main purpose of this analysis is to create a machine learning model in order to predict the prices of houses based on multiple features for example: number of bedrooms, lot size, neighborhood, area etc. Our goal for this project is to build an end-to-end machine learning model that is able to predict house prices better than individuals. We would love to implement our models in real-life situations and assist future house buyers in making advised decisions and help real estate agents attain more sales by providing quality information. We want to use our model to evaluate the value of homes within a timeframe of 6-12 months. There are many outside factors that could contribute to the decline/rise in house prices (i.e Covid-19, Financial Crisis), which is why we want to limit the timeframe. For future purposes. we could use the results that we obtain from our project and see if there are any ways that we can extend our timeframe while maintaining efficiency and accuracy. 
 
+# Purpose
+The main purpose of this analysis is to create a machine learning model in order to predict the prices of houses based on multiple features for example: number of bedrooms, lot size, neighborhood, area etc. Our goal for this project is to build an end-to-end machine learning model that is able to predict house prices better than individuals. We would love to implement our models in real-life situations and assist future house buyers in making advised decisions and help real estate agents attain more sales by providing quality information. We want to use our model to evaluate the value of homes within a timeframe of 6-12 months. There are many outside factors that could contribute to the decline/rise in house prices (i.e Covid-19, Financial Crisis), which is why we want to limit the timeframe. For future purposes. we could use the results that we obtain from our project and see if there are any ways that we can extend our timeframe while maintaining efficiency and accuracy. \
 A few questions we are looking to answer are:
+
 1. What attributes of a house are highly/inversely correlated with the price of the house? What insights could we determine from these attributes? 
 2. Will our test house price match the actual retail value of a home? 
 3. Are there any missing attributes that might contribute to better results in this model, that the current dataset might be missing? 
@@ -184,8 +185,11 @@ What will be used for each section?
   	- HTML
 
 ## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. <br>
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)  <br>
+Drop missing values and define whether they're categorical or numerical. Replacing the values.
+![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
+
 
 ## Database Storage
 Firstmake the connection string to AWS RDS Database, Read the data from RDS as Pandas.<br>
@@ -197,13 +201,17 @@ The SQLite system supports in-memory capabilities that help to perform the data 
 Before furtherperdiction, we need understand our data first.<br>
 Using histogram to determine distribution of the various sales prices, boxplot with an Interquartile Range (IQR) of our target variable Sale Price.<br>
 ![This is an image](https://user-images.githubusercontent.com/87958408/194442742-e618ad2e-551e-40fd-a53d-75c517bbb43b.png)
+Analyzing Co-Relation with Certain Feature Variables. <br>
+- Year Home was Built vs. Sale Price
+- Greater Living Area vs. Sale Price 
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/correlation.png?raw=true)
 
 There's a List of the model that we can use for our prediction.<br>
 a. Linear Regression Model<br>
-b. Multiple Regression Model<br>
+b. XGBoost<br>
 c. Decesion Tree<br>
 d. Random Forest Regressor<br>
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/ml%20model.png?raw=true)
+![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
 We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
 
 ## Dashboard
