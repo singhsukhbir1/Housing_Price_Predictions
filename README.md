@@ -195,7 +195,8 @@ The SQLite system supports in-memory capabilities that help to perform the data 
 Before furtherperdiction, we need understand our data first.<br>
 Using histogram to determine distribution of the various sales prices, boxplot with an Interquartile Range (IQR) of our target variable Sale Price.<br>
 ![This is an image](https://user-images.githubusercontent.com/87958408/194442742-e618ad2e-551e-40fd-a53d-75c517bbb43b.png)
-
+Analyzing Co-Relation with Certain Feature Variables. <br>
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/correlation.png?raw=true)
 There's a List of the model that we can use for our prediction.<br>
 a. Linear Regression Model<br>
 b. Multiple Regression Model<br>
