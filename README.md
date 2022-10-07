@@ -15,8 +15,10 @@ https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?us
 # Dashboard
 [Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
 
-Dashboard Features:
+Dashboard Features: 
 - Average Sale Price vs Garage Type of House
+- Avearage Sale Price vs Building Type
+
 
 # Managing GitHub Repository
 - Created the repository and added all the members.
