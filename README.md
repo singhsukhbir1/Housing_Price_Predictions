@@ -12,11 +12,10 @@ A few questions we are looking to answer are:
 # Presentation (Google Slide Link)
 https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true
 
-# Dashboard 
-
+# Dashboard
 [Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
 
-- Dsahboard Features: 
+Dashboard Features: 
 - Average Sale Price vs Garage Type of House
 - Average Sale Price  vs Building Type as years grow
 - Highest Sale Price vs Neighbourhood
