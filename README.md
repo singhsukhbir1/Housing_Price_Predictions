@@ -182,14 +182,12 @@ What will be used for each section?
 
 ## Data cleaning
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning.png?raw=true)
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning2.png?raw=true)
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning3.png?raw=true)
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)
 
 ## Database Storage
 PostgreSQL or SQLite depending operations efficiently.
 The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20storage.png?raw=true)
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/Data%20%20storage.png?raw=true)
 
 ## Machine Learning
 There's a List of the model that we can use for our prediction.<br>
