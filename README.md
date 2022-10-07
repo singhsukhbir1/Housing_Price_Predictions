@@ -1,7 +1,9 @@
 # [Housing_Price_Predictions](https://github.com/singhsukhbir1/Housing_Price_Predictions)
 
-
+# Purpose
+The main purpose of this analysis is to create a machine learning model in order to predict the prices of houses based on multiple features for example: number of bedrooms, lot size, neighborhood, area etc. Our goal for this project is to build an end-to-end machine learning model that is able to predict house prices better than individuals. We would love to implement our models in real-life situations and assist future house buyers in making advised decisions and help real estate agents attain more sales by providing quality information. We want to use our model to evaluate the value of homes within a timeframe of 6-12 months. There are many outside factors that could contribute to the decline/rise in house prices (i.e Covid-19, Financial Crisis), which is why we want to limit the timeframe. For future purposes. we could use the results that we obtain from our project and see if there are any ways that we can extend our timeframe while maintaining efficiency and accuracy. \
 A few questions we are looking to answer are:
+
 1. What attributes of a house are highly/inversely correlated with the price of the house? What insights could we determine from these attributes? 
 2. Will our test house price match the actual retail value of a home? 
 3. Are there any missing attributes that might contribute to better results in this model, that the current dataset might be missing? 
