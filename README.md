@@ -182,9 +182,10 @@ What will be used for each section?
   	- HTML
 
 ## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. <br>
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)
-Drop Variables with too many Missing Values and Define whether missing values are categorical or numerical
+Drop missing values and define whether they're categorical or numerical. Replacing the values.
+![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
 
 
 ## Database Storage
@@ -201,8 +202,6 @@ Analyzing Co-Relation with Certain Feature Variables. <br>
 - Year Home was Built vs. Sale Price
 - Greater Living Area vs. Sale Price 
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/correlation.png?raw=true)
-Drop missing values and define whether they're categorical or numerical. Replacing the values.
-![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
 
 There's a List of the model that we can use for our prediction.<br>
 a. Linear Regression Model<br>
