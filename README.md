@@ -16,6 +16,11 @@ https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?us
 
 [Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
 
+- Dsahboard Features: 
+- Average Sale Price vs Garage Type of House
+- Average Sale Price  vs Building Type as years grow
+- Highest Sale Price vs Neighbourhood
+
 # Managing GitHub Repository
 - Created the repository and added all the members.
 - A README.md file is added and the repository is set to Public view.
@@ -211,12 +216,6 @@ c. Decesion Tree<br>
 d. Random Forest Regressor<br>
 ![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
 We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
-
-## Dashboard
-Using Tableau to display house prices based  on different features. 
-- Average Sale Price vs Garage Type of House
-- Average Sale Price  vs Building Type as years grow
-- Highest Sale Price vs Neighbourhood
 
 
 # Contribution: 
