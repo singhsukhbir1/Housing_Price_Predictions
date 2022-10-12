@@ -1,54 +1,59 @@
+# [Housing_Price_Predictions](https://github.com/singhsukhbir1/Housing_Price_Predictions)
+# Presentation 
+[Google Slide Link](https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true)
+# Dashboard
+[Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
 
-# Square: Sukhbir Singh (Managing GitHub Repository)
+Dashboard Features: 
+- Average Sale Price vs Garage Type of House
+- Average Sale Price  vs Building Type as years grow
+- Highest Sale Price vs Neighbourhood
 
----
----
+# Project 
 
-# Circle: Jagbir Singh (incharge of the mockup database)
+The main purpose of this analysis is to create a machine learning model in order to predict the prices of houses based on multiple features for example: number of bedrooms, lot size, neighborhood, area etc. Our goal for this project is to build an end-to-end machine learning model that is able to predict house prices better than individuals. We would love to implement our models in real-life situations and assist future house buyers in making advised decisions and help real estate agents attain more sales by providing quality information. We want to use our model to evaluate the value of homes within a timeframe of 6-12 months. There are many outside factors that could contribute to the decline/rise in house prices (i.e Covid-19, Financial Crisis), which is why we want to limit the timeframe. For future purposes. we could use the results that we obtain from our project and see if there are any ways that we can extend our timeframe while maintaining efficiency and accuracy. \
+A few questions we are looking to answer are:
+
+1. What attributes of a house are highly/inversely correlated with the price of the house? What insights could we determine from these attributes? 
+2. Will our test house price match the actual retail value of a home? 
+3. Are there any missing attributes that might contribute to better results in this model, that the current dataset might be missing? 
+4. What ways can we finetune the dataset that we currently have and how will this impact our efficiency of our model?
 
 
+# Mockup database
+- Dataset is downloaded from kaggle after that we have created the dataframe using pandas library in jupyter notebook. In addition to this we have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns initially.
 ---
----
-# X: Chenglu Yang(Deciding the technologies)
----
----
-## Technologies Used
-*	What will be used for each section?  
--  Data cleaning
-	- Jupyter Notebook
-	- pandas
--  DataBase Storage 
-        - SQLite
-	- Mongo
--  Machine Learning
-	- Logistic Regression (LR)
-        	- Jupyter Notebook
-		- pandas
-		- R
-- Dashboard
-	- Javascript, d3.json
-  	- CSS
-  	- HTML
-
-Javascript, HTML, CSS for building the webpage.  
 ## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. 
-![D11a](![image](https://user-images.githubusercontent.com/87958408/191875342-752152c0-957f-42da-8984-51b4747ec3f6.png)
-![D11a](![image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20%20cleanning2.png?raw=true)
+- Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook.
+Drop missing values and define whether they're categorical or numerical. Replacing the values.
+![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
+---
 ## Database Storage
-SQLite or Mongo depending on the size of data
-## Machine Learning Model
-We will test various machine learning models  to determine the best model for predictions.
-## Dashboard
-Using Javascript, HTML, CSS for building the webpage.  
+Firstmake the connection string to AWS RDS Database, Read the data from RDS as Pandas.<br>
+PostgreSQL or SQLite depending operations efficiently.<br>
+The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/Data%20storage.png?raw=true)
 
----
-# Triangle:  Nishan Manoharan ( Building Machine Learning Models )
----
----
+# Machine Learning
+Before furtherperdiction, we need understand our data first.<br>
+Using histogram to determine distribution of the various sales prices, boxplot with an Interquartile Range (IQR) of our target variable Sale Price.<br>
+![This is an image](https://user-images.githubusercontent.com/87958408/194442742-e618ad2e-551e-40fd-a53d-75c517bbb43b.png)
+Analyzing Co-Relation with Certain Feature Variables. <br>
+- Year Home was Built vs. Sale Price
+- Greater Living Area vs. Sale Price 
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/correlation.png?raw=true)
 
-## Building Machine Learning Models: 
-	
+There's a List of the model that we can use for our prediction.<br>
+a. Linear Regression Model<br>
+b. XGBoost<br>
+c. Decesion Tree<br>
+d. Random Forest Regressor<br>
+![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
+We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
+
+# Building Machine Learning Models
+---
+---
 ## Shallow Learning: 
 - It would be a good idea to start the Machine Learning component by examining a simpler rule-based algorithm 
   
@@ -178,14 +183,23 @@ Using Javascript, HTML, CSS for building the webpage.
 
 ![SDTvsRF](https://i.ibb.co/0mZJkTW/DT-vs-RF.png)
 
----
----
+## Technologies Used
+What will be used for each section?  
+-  Data cleaning
+	- Jupyter Notebook
+	- pandas
+-  DataBase Storage 
+	- PostgreSQL
+	- SQLite
+-  Machine Learning
+	- Logistic Regression (LR)
+		- Jupyter Notebook
+- Dashboard
+	- Tableau
+  	- HTML
 
-
----
----
-
-X: 
-
----
----
+# Contribution: 
+## Square: Sukhbir Singh 
+## Triangle:  Nishan Manoharan 
+## Circle: Jagbir Singh 
+## X: Chenglu Yang
