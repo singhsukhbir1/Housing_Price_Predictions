@@ -5,7 +5,7 @@
 # Dashboard:
 [Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
 
-[Link to Storyboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
+[Link to Storyboard...](https://miro.com/app/board/uXjVPOWclh8=/?share_link_id=780441163770)
 
 # Project 
 
