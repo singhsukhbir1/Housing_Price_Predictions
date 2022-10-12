@@ -1,4 +1,13 @@
 # [Housing_Price_Predictions](https://github.com/singhsukhbir1/Housing_Price_Predictions)
+# Presentation 
+[Google Slide Link](https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true)
+# Dashboard
+[Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
+
+Dashboard Features: 
+- Average Sale Price vs Garage Type of House
+- Average Sale Price  vs Building Type as years grow
+- Highest Sale Price vs Neighbourhood
 
 # Project 
 
@@ -10,33 +19,42 @@ A few questions we are looking to answer are:
 3. Are there any missing attributes that might contribute to better results in this model, that the current dataset might be missing? 
 4. What ways can we finetune the dataset that we currently have and how will this impact our efficiency of our model?
 
-# Presentation (Google Slide Link)
-https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true
-
-# Dashboard
-[Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
-
-Dashboard Features: 
-- Average Sale Price vs Garage Type of House
-- Average Sale Price  vs Building Type as years grow
-- Highest Sale Price vs Neighbourhood
-
-# Managing GitHub Repository
-- Created the repository and added all the members.
-- A README.md file is added and the repository is set to Public view.
-- Purpose or analysis and roles of members are updated.
----
----
 
 # Mockup database
-- I have downloaded the dataset from kaggle and created the dataframe using pandas library in jupyter notebook. In addition to this I have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns.
-
-
+- Dataset is downloaded from kaggle after that we have created the dataframe using pandas library in jupyter notebook. In addition to this we have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns initially.
 ---
+## Data cleaning
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. <br>
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)  <br>
+Drop missing values and define whether they're categorical or numerical. Replacing the values.
+![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
+---
+## Database Storage
+Firstmake the connection string to AWS RDS Database, Read the data from RDS as Pandas.<br>
+PostgreSQL or SQLite depending operations efficiently.<br>
+The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/Data%20storage.png?raw=true)
+
+# Machine Learning
+Before furtherperdiction, we need understand our data first.<br>
+Using histogram to determine distribution of the various sales prices, boxplot with an Interquartile Range (IQR) of our target variable Sale Price.<br>
+![This is an image](https://user-images.githubusercontent.com/87958408/194442742-e618ad2e-551e-40fd-a53d-75c517bbb43b.png)
+Analyzing Co-Relation with Certain Feature Variables. <br>
+- Year Home was Built vs. Sale Price
+- Greater Living Area vs. Sale Price 
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/correlation.png?raw=true)
+
+There's a List of the model that we can use for our prediction.<br>
+a. Linear Regression Model<br>
+b. XGBoost<br>
+c. Decesion Tree<br>
+d. Random Forest Regressor<br>
+![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
+We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
+
 # Building Machine Learning Models
 ---
 ---
-	
 ## Shallow Learning: 
 - It would be a good idea to start the Machine Learning component by examining a simpler rule-based algorithm 
   
@@ -166,12 +184,6 @@ Dashboard Features:
 
 ![SDTvsRF](https://i.ibb.co/0mZJkTW/DT-vs-RF.png)
 
----
----
-# Deciding the technologies
----
----
-
 ## Technologies Used
 What will be used for each section?  
 -  Data cleaning
@@ -186,37 +198,6 @@ What will be used for each section?
 - Dashboard
 	- Tableau
   	- HTML
-
-## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. <br>
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)  <br>
-Drop missing values and define whether they're categorical or numerical. Replacing the values.
-![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
-
-
-## Database Storage
-Firstmake the connection string to AWS RDS Database, Read the data from RDS as Pandas.<br>
-PostgreSQL or SQLite depending operations efficiently.<br>
-The SQLite system supports in-memory capabilities that help to perform the data operations efficiently, whereas, in the PostgreSQL system, there is no such functionality of in-memory capability. The SQLite system does not support any partitioning methods.
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/Data%20storage.png?raw=true)
-
-## Machine Learning
-Before furtherperdiction, we need understand our data first.<br>
-Using histogram to determine distribution of the various sales prices, boxplot with an Interquartile Range (IQR) of our target variable Sale Price.<br>
-![This is an image](https://user-images.githubusercontent.com/87958408/194442742-e618ad2e-551e-40fd-a53d-75c517bbb43b.png)
-Analyzing Co-Relation with Certain Feature Variables. <br>
-- Year Home was Built vs. Sale Price
-- Greater Living Area vs. Sale Price 
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/correlation.png?raw=true)
-
-There's a List of the model that we can use for our prediction.<br>
-a. Linear Regression Model<br>
-b. XGBoost<br>
-c. Decesion Tree<br>
-d. Random Forest Regressor<br>
-![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
-We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
-
 
 # Contribution: 
 ## Square: Sukhbir Singh 
