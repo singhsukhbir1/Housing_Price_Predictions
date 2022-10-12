@@ -24,8 +24,7 @@ A few questions we are looking to answer are:
 - Dataset is downloaded from kaggle after that we have created the dataframe using pandas library in jupyter notebook. In addition to this we have created a data pipeline to connect to the database sever using SQL.The dataset includes 78 columns initially.
 ---
 ## Data cleaning
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook. <br>
-![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/data%20cleanning.png?raw=true)  <br>
+- Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Jupyter Notebook.
 Drop missing values and define whether they're categorical or numerical. Replacing the values.
 ![This is an image](https://user-images.githubusercontent.com/87958408/194444861-b00f56d2-717c-499a-aab3-a7c7005df8e3.png)
 ---
