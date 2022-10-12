@@ -1,8 +1,7 @@
-# [Housing_Price_Predictions](https://github.com/singhsukhbir1/Housing_Price_Predictions)
-# Presentation 
-[Google Slide Link](https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true)
-# Dashboard
-[Link to Dashboard...](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
+# Housing_Price_Predictions
+# [Presentation](https://docs.google.com/presentation/d/1gaiuz5jFoKZ7mEFsBYbEpipHreXOnxcL/edit?usp=sharing&ouid=102426867465520822742&rtpof=true&sd=true)
+
+# [Dashboard](https://public.tableau.com/app/profile/sukhbir.singh3117/viz/HousingPricesPredictionsDashboard/HousingPricesBasedonDifferentFeatures?publish=yes)
 
 Dashboard Features: 
 - Average Sale Price vs Garage Type of House
