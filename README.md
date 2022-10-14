@@ -57,9 +57,9 @@ Key goals and needs<br>
 4. provide valuable insights into customer behavior and market changes<br>
 
 Key graphs<br>
--Average Sale Price vs Garage Type of House
--Average Sale Price vs Building Type
--Highest Sale Price vs Neighborhood
+-Average Sale Price vs Garage Type of House <br>
+-Average Sale Price vs Building Type<br>
+-Highest Sale Price vs Neighborhood<br>
 -Year Built vs Average Sale Price<br>
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/6.png?raw=true)
 
