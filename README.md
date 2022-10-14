@@ -49,6 +49,21 @@ d. Random Forest Regressor<br>
 ![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
 We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
 
+# Dashboard
+Key goals and needs<br>
+1. Presenting dashboard in a clear way
+2. Analysis & Reporting
+3. Ensure actionable outcomes
+4. provide valuable insights into customer behavior and market changes<br>
+
+Key graphs<br>
+-Average Sale Price vs Garage Type of House
+-Average Sale Price vs Building Type
+-Highest Sale Price vs Neighborhood
+-Year Built vs Average Sale Price<br>
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/6.png?raw=true)
+
+
 # Building Machine Learning Models
 ---
 ---
