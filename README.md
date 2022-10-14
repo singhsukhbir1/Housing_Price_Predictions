@@ -46,7 +46,7 @@ a. Linear Regression Model<br>
 b. XGBoost<br>
 c. Decesion Tree<br>
 d. Random Forest Regressor<br>
-![This is an image](https://user-images.githubusercontent.com/87958408/194445925-f1c3bc6f-8699-4b78-9bd2-83bce3bfcd0d.png)
+![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/analysis.png?raw=true)
 We making predictions on the test set, and use data accuracy percent to consider whether our model is doing well or not.
 
 # Dashboard
