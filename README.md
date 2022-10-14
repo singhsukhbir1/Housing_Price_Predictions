@@ -62,6 +62,7 @@ Key graphs<br>
 -Average Sale Price vs Building Type<br>
 -Highest Sale Price vs Neighborhood<br>
 -Year Built vs Average Sale Price<br>
+<br>
 ![This is an image](https://github.com/singhsukhbir1/Housing_Price_Predictions/blob/main/Resources/6.png?raw=true)
 
 
