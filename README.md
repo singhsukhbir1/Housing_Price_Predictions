@@ -57,6 +57,7 @@ Key goals and needs<br>
 4. provide valuable insights into customer behavior and market changes<br>
 
 Key graphs<br>
+<br>
 -Average Sale Price vs Garage Type of House <br>
 -Average Sale Price vs Building Type<br>
 -Highest Sale Price vs Neighborhood<br>
